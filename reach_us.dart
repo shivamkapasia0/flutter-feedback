@@ -153,7 +153,7 @@ class _ReachUsState extends State<ReachUs> {
                     t1.clear();
                     t2.clear();
                     launchUrl(
-                        "mailto:lifeplusapp2020@gmail.com?subject=From $name&body=$message");
+                        "mailto:kapasiashivam007@gmail.com?subject=From $name&body=$message");
                   });
                 },
                 child: ListTile(
