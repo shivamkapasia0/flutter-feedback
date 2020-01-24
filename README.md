@@ -2,7 +2,7 @@
 Form to get user feedback directly from your flutter app.
 
 # Screenshot:
-<img src="https://github.com/shivamkapasia0/flutter-feedback/blob/master/Screenshot.png" width="200" height="400" />
+<img src="https://github.com/shivamkapasia0/flutter-feedback/blob/master/Screenshot.png" width="400" height="400" />
 
 # Packages Used :
 ```
